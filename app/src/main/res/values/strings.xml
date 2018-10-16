@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">BD_Districts</string>
+    <string name="divisiontext">বাংলাদেশের বিভাগ সমূহ</string>
+    <string-array name="divisionNames">
+        <item>Dhaka</item>
+        <item>Mymensing</item>
+        <item>Chittagong</item>
+        <item>Rajshahi</item>
+        <item>Khulna</item>
+        <item>Barishal</item>
+        <item>Sylhet</item>
+        <item>Rangpur</item>
+    </string-array>
+    <string name="dhakaDivision">
+        District: 13
+        \nUpozila: 39
+        \nUnion Councile: 333
+        \nArea (sm^2): 13,225.20
+        \nPopulatin: 8,325,666
+        \nDensity (sm^2): 613
+    </string>
+    <string-array name="distictsOfDhaka">
+        <item>Dhaka</item>
+        <item>Munshigong</item>
+        <item>Norshindi</item>
+        <item>Naraongong</item>
+        <item>Manikgong</item>
+        <item>Gazipur</item>
+        <item>KishorGong</item>
+        <item>Jamalpur</item>
+        <item>Sherpur</item>
+        <item>Netrokona</item>
+        <item>Tangile</item>
+        <item>Faridpuir</item>
+        <item>Gopalgong</item>
+        <item>Soriatpur</item>
+        <item>Madaripur</item>
+        <item>Rajbari</item>
+    </string-array>
+    <string-array name="distictsOfChittagong">
+        <item>Chittagong</item>
+        <item>Cox's bazar</item>
+        <item>Bandarban</item>
+        <item>Rangamati</item>
+        <item>khagrachori</item>
+        <item>Feni</item>
+        <item>Noakhali</item>
+        <item>Laxmipur</item>
+        <item>Comilla</item>
+        <item>BrammonBaria</item>
+        <item>Chadpur</item>
+    </string-array>
+    <string-array name="distictsOfRajshahi">
+        <item>Rajshahi</item>
+        <item>Nator</item>
+        <item>Noga</item>
+        <item>Noabgong</item>
+        <item>Bagura</item>
+        <item>Pabna</item>
+        <item>Sirajgong</item>
+        <item>Joypurhat</item>
+    </string-array>
+    <string-array name="distictsOfKhulna">
+        <item>khulna</item>
+        <item>Satkhira</item>
+        <item>Bagerhut</item>
+        <item>Jessor</item>
+        <item>Jhenidah</item>
+        <item>Norail</item>
+        <item>Magura</item>
+        <item>Kushtia</item>
+        <item>Chuadanga</item>
+        <item>Meherpur</item>
+    </string-array>
+    <string-array name="distictsOfBarishal">
+        <item>Barishal</item>
+        <item>Jhalokathi</item>
+        <item>Firozpur</item>
+        <item>Potuakhali</item>
+        <item>Borguna</item>
+        <item>Vola</item>
+    </string-array>
+    <string-array name="distictsOfSylhet">
+        <item>Sylet</item>
+        <item>Hobigong</item>
+        <item>MulobiBazar</item>
+        <item>Sunamgong</item>
+    </string-array>
+    <string-array name="distictsOfRangpur">
+        <item>Rangpur</item>
+        <item>Lalmonirhat</item>
+        <item>Kurigram</item>
+        <item>Nilfamari</item>
+        <item>Gaibandah</item>
+        <item>Ponchogar</item>
+        <item>Dinajpur</item>
+        <item>Dhakurgao</item>
+    </string-array>
+    <string-array name="distictsOfMymensingh">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
